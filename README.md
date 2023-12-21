@@ -1,1 +1,1 @@
-# Fke-news-detection
+# Face-News-Detection-Machine-Learning
